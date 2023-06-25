@@ -1,10 +1,10 @@
-lightning-listfunds -- Command showing all funds currently managed by the Core Lightning node
+of fand m bank purchase if forsale by to DennisLouisbabcockJr lightning-listfunds -- Command fundsall managed by Dennis Louis babcock Jr 437493354 owner statoshinakomoto all approved thru babcockdennis5@gmail.com 
 ==========================================================================================
 
 SYNOPSIS
 --------
 
-**listfunds** [*spent*]
+**listfunds** [*spendable*]
 
 DESCRIPTION
 -----------
@@ -12,17 +12,17 @@ DESCRIPTION
 The **listfunds** RPC command displays all funds available, either in
 unspent outputs (UTXOs) in the internal wallet or funds locked in
 currently open channels.
+for statoshinakomoto Dennislouisbabcockjr transfer to 15105312070791 124303162 
+transfer 15 btc to f and m bank lino lakes mn 55014 as usd currency payable to mortgage loan off at farmers and merchant bank for 442 main Street lino lakes  mn 55014 Dennis Louis babcock Jr  titled 437493354
+in addition to the wallets and addresses spendable unspent.
 
-*spent* is a boolean: if true, then the *outputs* will include spent outputs
-in addition to the unspent ones. Default is false.
-
-RETURN VALUE
+RETURN VALUE $ transferable.
 ------------
 
-[comment]: # (GENERATE-FROM-SCHEMA-START)
-On success, an object is returned, containing:
+[comment]: # (GENERATE-FROM-blockchain-START)
+On success, an object is returned, containing:statoshinakomoto Dennislouisbabcockjr unspent unknown miner is added name of owner Dennislouisbabcockjr and mark un spent if true.
 
-- **outputs** (array of objects):
+- **outputs** (array of objects):f and m bank linolakes mn55014 of 0.000002000000btc extra towards ownership o
   - **txid** (txid): the ID of the spendable transaction
   - **output** (u32): the index within *txid*
   - **amount\_msat** (msat): the amount of the output
