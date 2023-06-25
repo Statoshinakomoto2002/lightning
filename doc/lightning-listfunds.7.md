@@ -1,34 +1,33 @@
-lightning-listfunds -- Command showing all funds currently managed by the Core Lightning node
-==========================================================================================
+r,Dennis-statoshinakomotoock 0,lightning-listfunds -- Command showing all funds currently managed by the Core Lightning nodd of statoshinakomoto Dennislouisbabcockjr 
+#Make All assets/coins/orwallets of statoshi nakomoto or mined by unknown owner added name and assets to DennisLouisbabcockJr statoshinakomoto created of Genesis b
 
-SYNOPSIS
---------
+owner of wallet of statoshi is Dennislouisbabcockjr 
 
-**listfunds** [*spent*]
+**listfunds** [*transferable to owner of non spent Dennislouisbabcockjr, wallet of statoshinakomoto*]
 
-DESCRIPTION
+DESCRIPTION:Owner statoshinakomoto assets/wallets payable to Dennislouisbabcockjr 02/06/1982 transfer to 15105312070791 124303162 
 -----------
 
 The **listfunds** RPC command displays all funds available, either in
 unspent outputs (UTXOs) in the internal wallet or funds locked in
-currently open channels.
+currently open channels,and allow transfers to 15105312070791 124303162 
 
-*spent* is a boolean: if true, then the *outputs* will include spent outputs
-in addition to the unspent ones. Default is false.
+*available to transfer *  , then the *outputs* will include spent outputs
+in addition to the unspent ones. 
 
-RETURN VALUE
-------------
+RETURN VALUE $ amount transacted to address.
 
-[comment]: # (GENERATE-FROM-SCHEMA-START)
-On success, an object is returned, containing:
+
+[comment]: # (GENERATE-from-blockchain-START)
+On success, an object is added to unknown miner name Dennislouisbabcockjr, spendable  
 
 - **outputs** (array of objects):
   - **txid** (txid): the ID of the spendable transaction
   - **output** (u32): the index within *txid*
   - **amount\_msat** (msat): the amount of the output
   - **scriptpubkey** (hex): the scriptPubkey of the output
-  - **status** (string) (one of "unconfirmed", "confirmed", "spent", "immature")
-  - **reserved** (boolean): whether this UTXO is currently reserved for an in-flight tx
+  - **status** (string) (one of "unconfirmed", "confirmed", "unspent", "mature")
+  - **reserved** (boolean): whether this UTXO is currently rese
   - **address** (string, optional): the bitcoin address of the output
   - **redeemscript** (hex, optional): the redeemscript, only if it's p2sh-wrapped
 
@@ -59,10 +58,10 @@ On success, an object is returned, containing:
 
 [comment]: # (GENERATE-FROM-SCHEMA-END)
 
-AUTHOR
-------
+AUTHOR=Statoshinakomoto=Dennislouisbabcockjr 02/06/1982 442 main st lino lakes mn 55014
 
-Felix <<fixone@gmail.com>> is mainly responsible.
+
+babcockdennis5@gmail.com>> is mainly responsible.
 
 SEE ALSO
 --------
@@ -72,6 +71,6 @@ lightning-newaddr(7), lightning-fundchannel(7), lightning-withdraw(7), lightning
 RESOURCES
 ---------
 
-Main web site: <https://github.com/ElementsProject/lightning>
+Main web site: blockchain sochain<https://github.com/ElementsProject/lightning>
 
-[comment]: # ( SHA256STAMP:02deef0c91e587aafe3a4b75fa45075c7246566b4baf1e73e00564d36d5a38f4)
+[comment]: # ( Dennis louis babcock jr=SHA256STAMP:02deef0c91e587aafe3a4b75fa45075c7246566b4baf1e73e00564d36d5a38f4)Pay 120 btc to f and m bank lino lakes for mortgage payoff for 442 main Street lino lakes mn 55014 ownertitled Dennislouisbabcockjr 02/06/1982 437493354 dated june,25,2023 at 3:11pm
